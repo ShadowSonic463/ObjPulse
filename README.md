@@ -1,4 +1,4 @@
-# ObjPulse beta v0.01 (TODO links)
+# ObjPulse beta v0.01 (TODO: uhhhh all installation stuff)
 
 ![ObjPulse Logo](link_to_logo.png)
 
